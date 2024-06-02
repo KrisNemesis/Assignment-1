@@ -1,0 +1,125 @@
+.logo-pic{
+    justify-content: right;
+}
+.header-container{
+    height: 100vh;
+    
+    ;
+}
+.gap{
+    visibility: hidden;
+}
+.cv{
+    background-color: #FD6F00;
+    
+}
+.gap-logo{
+    color: #1E1E1E;
+
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1E1E1E;
+    color: white;
+    gap: 20px;
+    padding-left: 200px;
+    padding-top: 70px;
+    padding-right: 200px;
+    
+}
+
+#banner-mid{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    padding-left: 200px;
+    padding-top: 254px;
+    gap: 32px;
+    text-transform: uppercase;
+    
+}
+.banner-description{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 18px;
+    padding-left: 200px;
+    padding-top: 20px;
+    line-height: 21.33px;
+}
+.banner-tagline{
+    padding-left: 200px;
+    padding-top: 20px;
+    display: flex;
+    gap: 20px;
+    font-style: oblique;
+    font-weight: lighter;
+}
+.button-image{
+    padding-top: 20px;
+    padding-left: 190px;
+    display: flex;
+
+}
+.socialmedia-logo{
+    padding-left: 190px;
+    padding-top: 20px;
+    
+}
+.banner-img{
+    padding-left: 500px;
+}
+.profile-plus-logo{
+    display: flex;
+}
+.about{
+    padding-left: 200px;
+    padding-top: 100px;
+}
+.aboutme-text{
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.Experience{
+    padding-bottom: 10px;
+    font-style: italic;
+}
+.my-ex{
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.my-ex-describe{
+    gap: 5px;
+    font-size: 18px;
+}
+.describe{
+    padding-top: 150px;
+    padding-left: 200px;
+}
+.award{
+    padding-left: 200px;
+    padding-top: 200px;
+}
+.port{
+    padding-left: 200px;
+    padding-top: 200px;
+}
+.contact{
+    padding-left: 200px;
+    padding-top: 200px;
+}
+.footer{
+    height: fit-content;
+    padding-top: 200px;
+
+}
+
+
+@media only screen and (min-weight: 200px) and (max-weight:576){
+.nav{
+    font-size: 16px;
+}
+
+    
+}
